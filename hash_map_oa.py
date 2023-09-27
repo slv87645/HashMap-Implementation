@@ -1,8 +1,4 @@
 # Name: Steven Vu
-# OSU Email: vust@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: Hashmap
-# Due Date: 05/09/2023
 # Description: Hash Table implementation with Open Addressing
 
 from a6_include import (DynamicArray, DynamicArrayException, HashEntry,
